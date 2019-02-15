@@ -1,0 +1,38 @@
+.container{
+	display: flex;
+	flex-wrap:flex;
+	justify-content: center;
+	flex-direction:  row;
+	flex-direction: row-reverse;
+	flex-direction:column; 
+	flex-direction: column-reverse;
+	align-content: flex-start;
+	align-content: flex-end;
+	align-content: center;
+	align-content: space-between;
+	align-content: space-around;
+	align-content: stretch;
+}
+
+img{
+width: 450px;
+height:300px;
+align-content: center;
+float: center;
+margin-left: 50px;
+}
+h1{ 
+	font-family: fantasy; 
+	font-size: 3em;
+color: darkgreen;
+	text-align: center;
+	text-shadow: 2px 2px #F5F6CE;
+	
+
+ }
+body{
+
+
+	background-color:#F0FFF0;
+
+}
